@@ -8,8 +8,8 @@ body {
 }
 
 svg path {
-    fill: #00394f;
-    stroke: #eee;
+    /* fill: #00394f; */
+    stroke: black;
     stroke-width: 0.65;
 }
 
